@@ -2,6 +2,10 @@
 
 # OzairWebs — Web Development, Software Engineering and Search Resources
 
+![OzairWebs conceptual 3D banner joining custom applications, publishing and commerce, and search knowledge on a secure foundation](https://raw.githubusercontent.com/OzairWebss/.github/main/profile/assets/ozairwebs-3d-cover.png)
+
+> **Our working principle:** start with a clear business problem, make the engineering decisions reviewable, and leave the owner with a system they can operate.
+
 OzairWebs is a web and software development company based in **Lahore, Pakistan**, serving local and international clients. This organization brings together practical development guides, search resources and reusable project checklists. The focus is clear requirements, dependable workflows and systems that a business can maintain after launch.
 
 [Visit OzairWebs](https://ozairwebs.com/) · [Explore published work](https://ozairwebs.com/work/) · [Discuss a project](https://ozairwebs.com/company/contact/)
@@ -23,6 +27,15 @@ OzairWebs is a web and software development company based in **Lahore, Pakistan*
 
 The [official service directory](https://ozairwebs.com/) describes the current commercial scope. A listed technology is not a promise that every integration has already been implemented. Specific requirements, third-party dependencies and acceptance criteria belong in the project agreement.
 
+## Explore the engineering collections
+
+| Build applications | Publish and operate commerce | Support useful discovery |
+| --- | --- | --- |
+| [![Next.js engineering cover](https://raw.githubusercontent.com/OzairWebss/ozairwebs-nextjs-development/main/assets/nextjs-engineering-cover.jpg)](https://github.com/OzairWebss/ozairwebs-nextjs-development) | [![WordPress and WooCommerce engineering cover](https://raw.githubusercontent.com/OzairWebss/ozairwebs-wordpress-woocommerce/main/assets/wordpress-commerce-3d-cover.png)](https://github.com/OzairWebss/ozairwebs-wordpress-woocommerce) | [![SEO, AEO and GEO knowledge cover](https://raw.githubusercontent.com/OzairWebss/ozairwebs-seo-aeo-geo-services/main/assets/search-engineering-3d-cover.png)](https://github.com/OzairWebss/ozairwebs-seo-aeo-geo-services) |
+| [Architecture, APIs and delivery](https://github.com/OzairWebss/ozairwebs-nextjs-development) | [Publishing, checkout and recovery](https://github.com/OzairWebss/ozairwebs-wordpress-woocommerce) | [Audits, entities and evidence](https://github.com/OzairWebss/ozairwebs-seo-aeo-geo-services) |
+
+The cover illustrations identify each collection. Open a guide for the technical decisions, checklists and source references; the visuals do not represent benchmark results or client implementations.
+
 ## Practical knowledge for project owners and developers
 
 - [SEO, AEO and GEO knowledge resources](https://github.com/OzairWebss/ozairwebs-seo-aeo-geo-services)
@@ -32,6 +45,21 @@ The [official service directory](https://ozairwebs.com/) describes the current c
 Our service repositories examine three connected decisions: how a useful website is discovered, how a custom application is engineered, and how a publishing or commerce platform is operated. They include technical explanations, checklists, clearly labelled illustrative scenarios, reference sources and reusable decision registers. They are intended to be useful before a reader contacts the company.
 
 For search work, start with [SEO, AEO and GEO services](https://ozairwebs.com/seo/). For an application, review [Next.js development](https://ozairwebs.com/technologies/nextjs/). For publishing or store requirements, review [WordPress and WooCommerce](https://ozairwebs.com/services/wordpress-woocommerce/). Public search engines and AI services decide what they index or cite; neither a GitHub profile nor repository topics guarantee a ranking.
+
+## From a requirement to an operated system
+
+![Map of OzairWebs knowledge areas: application engineering, WordPress commerce and search resources, followed by scope, validation and operation](https://raw.githubusercontent.com/OzairWebss/.github/main/profile/assets/service-knowledge-map.svg)
+
+The first row identifies the discipline; the second row identifies responsibilities that cross disciplines. An accessible publishing interface still needs permissions. A custom application still needs clear public information. Search work still needs an owner for technical changes.
+
+| Delivery conversation | What should be made explicit |
+| --- | --- |
+| Discovery and scope | Users, workflow problems, integrations, constraints and ownership |
+| Implementation and review | Acceptance criteria, allowed actions, failure paths and supporting evidence |
+| Launch and handover | Account ownership, supported dependencies, rollback and operator instructions |
+| Ongoing operation | Monitoring, recovery, content corrections and responsible maintenance |
+
+> **Handover matters:** a website is easier to maintain when the people responsible for its content, integrations and recovery know what they own.
 
 ## How delivery is approached
 
