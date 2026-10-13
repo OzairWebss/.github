@@ -44,6 +44,7 @@ Before launch, agree on testing, account ownership, backup and restore procedure
 - [SadaPure](https://ozairwebs.com/work/sadapure-ecommerce/): a custom Next.js commerce storefront and administrative workflows. Proprietary client source is not shared here.
 - [FIRETECH](https://ozairwebs.com/work/firetechlsc-fire-services/): a WordPress and Elementor Pro consultancy website with structured service information and consultation paths.
 - [Renters Rights Toolkit](https://ozairwebs.com/work/renters-rights-toolkit/): a Next.js public information and tools experience.
+- [Deal N Trading](http://dealntrading.com/): an additional website project built by OzairWebs, confirmed directly by the company owner on 13 October 2026; technology and outcomes are not asserted here.
 
 These links describe published scope. No unverified traffic, revenue, conversion or client testimonial figures are attributed to them.
 
